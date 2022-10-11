@@ -1,4 +1,17 @@
-//# 100-days-code-challenge-
+/* # 100-days-code-challenge-
+ By taking two input from user and subtract them.
+ 
+sample input-
+45
+24
+
+sample output-
+21       */
+
+
+
+//code
+
 import java.util.*;
 
 public class Subtract {
