@@ -1,3 +1,20 @@
+/*In the given problem we have taken input from user and then print the greatest no. among them.
+
+sample input-
+Enter the value of a
+45
+Enter the value of b
+12
+Enter the value of c
+23
+
+sample output-
+45 is greatest no.      */
+
+
+
+//code
+
 import java.util.*;
 public class GreatestNumber{
     public static void main(String [] args) {
