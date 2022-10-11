@@ -1,4 +1,15 @@
- import java.util.*;
+/* In this problem first we take input from user and then with the help of switch case statement print the day name according to their number.
+
+sample input-
+5
+
+sample output-
+Thursday  */
+
+
+//code
+
+import java.util.*;
 public class Day{
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
